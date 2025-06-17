@@ -8,3 +8,15 @@ h1{
     font-size: larger;
     font-weight: bold;
 }
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+th,td{
+    border:1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
+th{
+    background-color: #f2f2f2;
+}
